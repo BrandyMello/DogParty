@@ -188,18 +188,34 @@ footer {
     text-align: center;
   }
 
-    .content {
+  .content {
     height: 180px;
   }
 
   .dogs {
-  margin-right: 0px;
+    margin-right: 0px;
     }
 
   .navLinks a {
     font-weight: 520;
     font-size: 12px;
     padding: 5px;
+  }
+
+  .yellow-dog {
+    width: 108px;
+    height: auto;
+    margin: 20px 136px 0px;
+}
+
+  .how-title {
+    font-weight: 520;
+    float: none;
+    margin: 6px 16px; 
+  }
+
+  .how-page-return-button {
+    margin: 20px 0px 10px 130px;
   }
 
 }
